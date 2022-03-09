@@ -38,7 +38,7 @@
     "eslint": "^7.14.0",
     "hapi-jolocom": "^2.0.0-rc4",
     "hapi-plugin-websocket": "^2.3.0",
-    "jolocom-lib": "^5.2.1",
+    "jolocom-lib": "^5.3.2",
     "node-base64-image": "^2.0.1",
     "sqlite3": "^4",
     "typeorm": "^0.2.24"
