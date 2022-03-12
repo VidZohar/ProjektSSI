@@ -31,7 +31,7 @@ export const EstablishChannel = ({
     window.location.search.split('&').forEach(p => {
       try {
         const [k, v] = p.split('=')
-        if (k == 'id') chId = v
+        if (k === 'id') chId = v
       } catch {}
     })
     if (!chId) {
